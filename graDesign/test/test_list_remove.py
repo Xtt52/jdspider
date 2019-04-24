@@ -1,0 +1,10 @@
+l = ['xie', 'tang', 'li', 'haung']
+l.remove('li')
+print(l)
+l.remove('xie')
+print(l)
+l.remove('tang')
+print(l)
+l.remove('haung')
+print(l)
+print(len(l))
